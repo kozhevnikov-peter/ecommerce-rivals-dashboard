@@ -1,16 +1,6 @@
 [
   {
     "service": "steam",
-    "url": "https://uniuni.market/payments/services/steam",
-    "type": "topup",
-    "region": "CIS",
-    "give_amount": 8,
-    "give_currency": "RUB",
-    "take_amount": 100,
-    "take_currency": "USD"
-  },
-  {
-    "service": "steam",
     "url": "https://steam.ru",
     "type": "topup",
     "region": "CIS",
@@ -27,6 +17,16 @@
     "give_amount": 8536,
     "give_currency": "RUB",
     "take_amount": 100,
+    "take_currency": "USD"
+  },
+  {
+    "service": "steam",
+    "url": "https://payberry.ru/pay/5955/8",
+    "type": "topup",
+    "region": "CIS",
+    "give_amount": 10700,
+    "give_currency": "RUB",
+    "take_amount": 126,
     "take_currency": "USD"
   },
   {
@@ -51,12 +51,12 @@
   },
   {
     "service": "steam",
-    "url": "https://payberry.ru/pay/5955/8",
+    "url": "https://uniuni.market/payments/services/steam",
     "type": "topup",
     "region": "CIS",
-    "give_amount": 10700,
+    "give_amount": 8283.85,
     "give_currency": "RUB",
-    "take_amount": 126,
+    "take_amount": 100,
     "take_currency": "USD"
   }
 ]
