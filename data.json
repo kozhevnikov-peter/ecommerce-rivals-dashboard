@@ -1,12 +1,12 @@
 [
   {
     "service": "steam",
-    "url": "https://uniuni.market/payments/services/steam",
+    "url": "https://payment.mts.ru/cyber/steam",
     "type": "topup",
     "region": "CIS",
-    "give_amount": "",
+    "give_amount": 8050,
     "give_currency": "RUB",
-    "take_amount": 100,
+    "take_amount": 92.56,
     "take_currency": "USD"
   },
   {
@@ -41,12 +41,12 @@
   },
   {
     "service": "steam",
-    "url": "https://payment.mts.ru/cyber/steam",
+    "url": "https://uniuni.market/payments/services/steam",
     "type": "topup",
     "region": "CIS",
-    "give_amount": 8050,
+    "give_amount": "",
     "give_currency": "RUB",
-    "take_amount": 92.56,
+    "take_amount": 100,
     "take_currency": "USD"
   },
   {
