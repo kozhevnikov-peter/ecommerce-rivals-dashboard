@@ -1,10 +1,20 @@
 [
   {
     "service": "steam",
-    "url": "https://uniuni.market/payments/services/steam",
+    "url": "https://payment.mts.ru/cyber/steam",
     "type": "topup",
     "region": "CIS",
-    "give_amount": "",
+    "give_amount": 8050,
+    "give_currency": "RUB",
+    "take_amount": 91.7,
+    "take_currency": "USD"
+  },
+  {
+    "service": "steam",
+    "url": "https://steam.ru",
+    "type": "topup",
+    "region": "CIS",
+    "give_amount": 9668.89,
     "give_currency": "RUB",
     "take_amount": 100,
     "take_currency": "USD"
@@ -21,42 +31,32 @@
   },
   {
     "service": "steam",
+    "url": "https://keysforgamers.com/ru/top-up/steam",
+    "type": "topup",
+    "region": "CIS",
+    "give_amount": 8769.19,
+    "give_currency": "RUB",
+    "take_amount": 100,
+    "take_currency": "USD"
+  },
+  {
+    "service": "steam",
+    "url": "https://uniuni.market/payments/services/steam",
+    "type": "topup",
+    "region": "CIS",
+    "give_amount": 8372.92,
+    "give_currency": "RUB",
+    "take_amount": 100,
+    "take_currency": "USD"
+  },
+  {
+    "service": "steam",
     "url": "https://payberry.ru/pay/5955/8",
     "type": "topup",
     "region": "CIS",
     "give_amount": 10700,
     "give_currency": "RUB",
-    "take_amount": 126,
-    "take_currency": "USD"
-  },
-  {
-    "service": "steam",
-    "url": "https://keysforgamers.com/ru/top-up/steam",
-    "type": "topup",
-    "region": "CIS",
-    "give_amount": 8769.2,
-    "give_currency": "RUB",
-    "take_amount": 100,
-    "take_currency": "USD"
-  },
-  {
-    "service": "steam",
-    "url": "https://steam.ru",
-    "type": "topup",
-    "region": "CIS",
-    "give_amount": 9668.89,
-    "give_currency": "RUB",
-    "take_amount": 100,
-    "take_currency": "USD"
-  },
-  {
-    "service": "steam",
-    "url": "https://steam.kupikod.com/usd",
-    "type": "topup",
-    "region": "CIS",
-    "give_amount": 9343,
-    "give_currency": "RUB",
-    "take_amount": 100,
+    "take_amount": 125,
     "take_currency": "USD"
   }
 ]
