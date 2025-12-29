@@ -24,7 +24,7 @@
     "url": "https://keysforgamers.com/ru/top-up/steam",
     "type": "topup",
     "region": "CIS",
-    "give_amount": 8585.52,
+    "give_amount": 8421.16,
     "give_currency": "RUB",
     "take_amount": 100,
     "take_currency": "USD"
@@ -41,10 +41,10 @@
   },
   {
     "service": "steam",
-    "url": "https://steam.ru",
+    "url": "https://iwillplay.ru/?currency=RUB&index_mode=steam",
     "type": "topup",
     "region": "CIS",
-    "give_amount": 9305.98,
+    "give_amount": 8306,
     "give_currency": "RUB",
     "take_amount": 100,
     "take_currency": "USD"
@@ -61,10 +61,10 @@
   },
   {
     "service": "steam",
-    "url": "https://iwillplay.ru/?currency=RUB&index_mode=steam",
+    "url": "https://steam.ru",
     "type": "topup",
     "region": "CIS",
-    "give_amount": 8306,
+    "give_amount": 9305.98,
     "give_currency": "RUB",
     "take_amount": 100,
     "take_currency": "USD"
