@@ -1,10 +1,30 @@
 [
   {
     "service": "steam",
+    "url": "https://payment.mts.ru/cyber/steam",
+    "type": "topup",
+    "region": "CIS",
+    "give_amount": 8050,
+    "give_currency": "RUB",
+    "take_amount": 94.28,
+    "take_currency": "USD"
+  },
+  {
+    "service": "steam",
     "url": "https://steam.ru",
     "type": "topup",
     "region": "CIS",
-    "give_amount": 9276.56,
+    "give_amount": 9370,
+    "give_currency": "RUB",
+    "take_amount": 100,
+    "take_currency": "USD"
+  },
+  {
+    "service": "steam",
+    "url": "https://uniuni.market/payments/services/steam",
+    "type": "topup",
+    "region": "CIS",
+    "give_amount": 8111.26,
     "give_currency": "RUB",
     "take_amount": 100,
     "take_currency": "USD"
@@ -26,27 +46,7 @@
     "region": "CIS",
     "give_amount": 10700,
     "give_currency": "RUB",
-    "take_amount": 130,
-    "take_currency": "USD"
-  },
-  {
-    "service": "steam",
-    "url": "https://payment.mts.ru/cyber/steam",
-    "type": "topup",
-    "region": "CIS",
-    "give_amount": 8050,
-    "give_currency": "RUB",
-    "take_amount": 94.9,
-    "take_currency": "USD"
-  },
-  {
-    "service": "steam",
-    "url": "https://uniuni.market/payments/services/steam",
-    "type": "topup",
-    "region": "CIS",
-    "give_amount": 8048.38,
-    "give_currency": "RUB",
-    "take_amount": 100,
+    "take_amount": 129,
     "take_currency": "USD"
   },
   {
@@ -54,17 +54,7 @@
     "url": "https://keysforgamers.com/ru/top-up/steam",
     "type": "topup",
     "region": "CIS",
-    "give_amount": 8527.68,
-    "give_currency": "RUB",
-    "take_amount": 100,
-    "take_currency": "USD"
-  },
-  {
-    "service": "steam",
-    "url": "https://steam.kupikod.com/usd",
-    "type": "topup",
-    "region": "CIS",
-    "give_amount": 9028,
+    "give_amount": 8638.38,
     "give_currency": "RUB",
     "take_amount": 100,
     "take_currency": "USD"
