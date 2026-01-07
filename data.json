@@ -1,12 +1,32 @@
 [
   {
     "service": "steam",
-    "url": "https://payment.mts.ru/cyber/steam",
+    "url": "https://steam.ru",
     "type": "topup",
     "region": "CIS",
-    "give_amount": 8050,
+    "give_amount": 9370,
     "give_currency": "RUB",
-    "take_amount": 90.95,
+    "take_amount": 100,
+    "take_currency": "USD"
+  },
+  {
+    "service": "steam",
+    "url": "https://steam.ru",
+    "type": "topup",
+    "region": "Russia",
+    "give_amount": 9582.4,
+    "give_currency": "RUB",
+    "take_amount": 8000,
+    "take_currency": "RUB"
+  },
+  {
+    "service": "steam",
+    "url": "https://keysforgamers.com/ru/top-up/steam",
+    "type": "topup",
+    "region": "CIS",
+    "give_amount": 8748.23,
+    "give_currency": "RUB",
+    "take_amount": 100,
     "take_currency": "USD"
   },
   {
@@ -31,12 +51,22 @@
   },
   {
     "service": "steam",
-    "url": "https://steam.ru",
+    "url": "https://iwillplay.ru/?currency=RUB&index_mode=steam",
     "type": "topup",
     "region": "CIS",
-    "give_amount": 9370,
+    "give_amount": 8633,
     "give_currency": "RUB",
     "take_amount": 100,
+    "take_currency": "USD"
+  },
+  {
+    "service": "steam",
+    "url": "https://payment.mts.ru/cyber/steam",
+    "type": "topup",
+    "region": "CIS",
+    "give_amount": 8050,
+    "give_currency": "RUB",
+    "take_amount": 90.95,
     "take_currency": "USD"
   },
   {
@@ -51,16 +81,6 @@
   },
   {
     "service": "steam",
-    "url": "https://keysforgamers.com/ru/top-up/steam",
-    "type": "topup",
-    "region": "CIS",
-    "give_amount": 8748.23,
-    "give_currency": "RUB",
-    "take_amount": 100,
-    "take_currency": "USD"
-  },
-  {
-    "service": "steam",
     "url": "https://steam.kupikod.com/usd",
     "type": "topup",
     "region": "CIS",
@@ -68,5 +88,15 @@
     "give_currency": "RUB",
     "take_amount": 100,
     "take_currency": "USD"
+  },
+  {
+    "service": "steam",
+    "url": "https://payment.mts.ru/cyber/steam",
+    "type": "topup",
+    "region": "Russia",
+    "give_amount": 8050,
+    "give_currency": "RUB",
+    "take_amount": 7336,
+    "take_currency": "RUB"
   }
 ]
