@@ -3,21 +3,21 @@
     "service": "steam",
     "url": "https://payment.mts.ru/cyber/steam",
     "type": "topup",
-    "region": "Kazakhstan",
+    "region": "Russia",
     "give_amount": 8050,
     "give_currency": "RUB",
-    "take_amount": 46516.53,
-    "take_currency": "KZT"
+    "take_amount": 7336,
+    "take_currency": "RUB"
   },
   {
     "service": "steam",
-    "url": "https://payberry.ru/pay/5955/8",
+    "url": "https://steam.ru",
     "type": "topup",
-    "region": "Kazakhstan",
-    "give_amount": 10700,
+    "region": "CIS",
+    "give_amount": 9370,
     "give_currency": "RUB",
-    "take_amount": 63700,
-    "take_currency": "KZT"
+    "take_amount": 100,
+    "take_currency": "USD"
   },
   {
     "service": "steam",
@@ -28,6 +28,36 @@
     "give_currency": "RUB",
     "take_amount": 8000,
     "take_currency": "RUB"
+  },
+  {
+    "service": "steam",
+    "url": "https://payberry.ru/pay/5955/8",
+    "type": "topup",
+    "region": "CIS",
+    "give_amount": 10700,
+    "give_currency": "RUB",
+    "take_amount": 125,
+    "take_currency": "USD"
+  },
+  {
+    "service": "steam",
+    "url": "https://keysforgamers.com/ru/top-up/steam",
+    "type": "topup",
+    "region": "CIS",
+    "give_amount": 8748.23,
+    "give_currency": "RUB",
+    "take_amount": 100,
+    "take_currency": "USD"
+  },
+  {
+    "service": "steam",
+    "url": "https://payment.mts.ru/cyber/steam",
+    "type": "topup",
+    "region": "Kazakhstan",
+    "give_amount": 8050,
+    "give_currency": "RUB",
+    "take_amount": 46516.53,
+    "take_currency": "KZT"
   },
   {
     "service": "steam",
@@ -43,40 +73,10 @@
     "service": "steam",
     "url": "https://payberry.ru/pay/5955/8",
     "type": "topup",
-    "region": "CIS",
-    "give_amount": 10700,
-    "give_currency": "RUB",
-    "take_amount": 125,
-    "take_currency": "USD"
-  },
-  {
-    "service": "steam",
-    "url": "https://payberry.ru/pay/5955/8",
-    "type": "topup",
     "region": "Russia",
     "give_amount": 10700,
     "give_currency": "RUB",
     "take_amount": 10080,
-    "take_currency": "RUB"
-  },
-  {
-    "service": "steam",
-    "url": "https://steam.kupikod.com/usd",
-    "type": "topup",
-    "region": "CIS",
-    "give_amount": 9358,
-    "give_currency": "RUB",
-    "take_amount": 100,
-    "take_currency": "USD"
-  },
-  {
-    "service": "steam",
-    "url": "https://payment.mts.ru/cyber/steam",
-    "type": "topup",
-    "region": "Russia",
-    "give_amount": 8050,
-    "give_currency": "RUB",
-    "take_amount": 7336,
     "take_currency": "RUB"
   },
   {
@@ -91,23 +91,23 @@
   },
   {
     "service": "steam",
-    "url": "https://payment.mts.ru/cyber/steam",
+    "url": "https://steam.kupikod.com/usd",
     "type": "topup",
     "region": "CIS",
-    "give_amount": 8050,
+    "give_amount": 9358,
     "give_currency": "RUB",
-    "take_amount": 90.95,
+    "take_amount": 100,
     "take_currency": "USD"
   },
   {
     "service": "steam",
-    "url": "https://steam.ru",
+    "url": "https://steam.kupikod.com/kzt",
     "type": "topup",
-    "region": "CIS",
-    "give_amount": 9370,
+    "region": "Kazakhstan",
+    "give_amount": 7317,
     "give_currency": "RUB",
-    "take_amount": 100,
-    "take_currency": "USD"
+    "take_amount": 40000,
+    "take_currency": "KZT"
   },
   {
     "service": "steam",
@@ -121,20 +121,40 @@
   },
   {
     "service": "steam",
-    "url": "https://iwillplay.ru/?currency=USD&index_mode=steam",
+    "url": "https://payberry.ru/pay/5955/8",
+    "type": "topup",
+    "region": "Kazakhstan",
+    "give_amount": 10700,
+    "give_currency": "RUB",
+    "take_amount": 63700,
+    "take_currency": "KZT"
+  },
+  {
+    "service": "steam",
+    "url": "https://payment.mts.ru/cyber/steam",
     "type": "topup",
     "region": "CIS",
-    "give_amount": 86.31,
+    "give_amount": 8050,
     "give_currency": "RUB",
-    "take_amount": 100,
+    "take_amount": 90.95,
     "take_currency": "USD"
   },
   {
     "service": "steam",
-    "url": "https://keysforgamers.com/ru/top-up/steam",
+    "url": "https://iwillplay.ru/?currency=RUB&index_mode=steam",
+    "type": "topup",
+    "region": "Russia",
+    "give_amount": 8560,
+    "give_currency": "RUB",
+    "take_amount": 8000,
+    "take_currency": "RUB"
+  },
+  {
+    "service": "steam",
+    "url": "https://iwillplay.ru/?currency=USD&index_mode=steam",
     "type": "topup",
     "region": "CIS",
-    "give_amount": 8748.23,
+    "give_amount": 8631,
     "give_currency": "RUB",
     "take_amount": 100,
     "take_currency": "USD"
