@@ -16,10 +16,10 @@ const setDeep = (obj, [k, ...r], v) =>
             url: data.url,
             region: data.region,
             type: data.type,
-            give_amount: result.give_amount,
-            give_currency: result.give_currency,
-            take_amount: result.take_amount,
-            take_currency: result.take_currency,
+            give_amount: result.payment_amount,
+            give_currency: result.payment_currency,
+            take_amount: result.funding_amount,
+            take_currency: result.funding_currency,
         }
     })], []).reduce(
         (acc, stat) => setDeep(acc, [
