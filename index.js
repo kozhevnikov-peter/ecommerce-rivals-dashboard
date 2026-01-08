@@ -10,7 +10,18 @@ const setDeep = (obj, [k, ...r], v) =>
 
 (async () => {
     const rawData = await fetch('data.json').then(res => res.json());
-    const data = rawData.reduce(
+    const data = rawData.reduce((acc, data) => [...acc, ...data.results.map(result => {
+        return {
+            service: data.service,
+            url: data.url,
+            region: data.region,
+            type: data.type,
+            give_amount: result.give_amount,
+            give_currency: result.give_currency,
+            take_amount: result.take_amount,
+            take_currency: result.take_currency,
+        }
+    })], []).reduce(
         (acc, stat) => setDeep(acc, [
             stat.service,
             stat.region,
