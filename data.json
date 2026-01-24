@@ -3,12 +3,124 @@
     "service": "steam",
     "url": "https://payment.mts.ru/cyber/steam",
     "type": "topup",
-    "region": "CIS",
+    "region": "Russia",
     "results": [
       {
         "payment_amount": 8050,
         "payment_currency": "RUB",
-        "funding_amount": 97.88,
+        "funding_amount": 7432,
+        "funding_currency": "RUB"
+      }
+    ]
+  },
+  {
+    "service": "steam",
+    "url": "https://steam.ru",
+    "type": "topup",
+    "region": "Russia",
+    "results": [
+      {
+        "payment_amount": 9582.4,
+        "payment_currency": "RUB",
+        "funding_amount": 8000,
+        "funding_currency": "RUB"
+      }
+    ]
+  },
+  {
+    "service": "steam",
+    "url": "https://payberry.ru/pay/5955/8",
+    "type": "topup",
+    "region": "Russia",
+    "results": [
+      {
+        "payment_amount": 10700,
+        "payment_currency": "RUB",
+        "funding_amount": 10070,
+        "funding_currency": "RUB"
+      }
+    ]
+  },
+  {
+    "service": "steam",
+    "url": "https://payment.mts.ru/cyber/steam",
+    "type": "topup",
+    "region": "Kazakhstan",
+    "results": [
+      {
+        "payment_amount": 8050,
+        "payment_currency": "RUB",
+        "funding_amount": 49511.33,
+        "funding_currency": "KZT"
+      }
+    ]
+  },
+  {
+    "service": "steam",
+    "url": "https://steam.ru",
+    "type": "topup",
+    "region": "CIS",
+    "results": [
+      {
+        "payment_amount": 9094.25,
+        "payment_currency": "RUB",
+        "funding_amount": 100,
+        "funding_currency": "USD"
+      }
+    ]
+  },
+  {
+    "service": "steam",
+    "url": "https://steam.kupikod.com/kzt",
+    "type": "topup",
+    "region": "Kazakhstan",
+    "results": [
+      {
+        "payment_amount": 6965,
+        "payment_currency": "RUB",
+        "funding_amount": 40000,
+        "funding_currency": "KZT"
+      }
+    ]
+  },
+  {
+    "service": "steam",
+    "url": "https://iwillplay.ru/?currency=KZT&index_mode=steam",
+    "type": "topup",
+    "region": "Kazakhstan",
+    "results": [
+      {
+        "payment_amount": 6426,
+        "payment_currency": "RUB",
+        "funding_amount": 40000,
+        "funding_currency": "KZT"
+      }
+    ]
+  },
+  {
+    "service": "steam",
+    "url": "https://payberry.ru/pay/5955/8",
+    "type": "topup",
+    "region": "CIS",
+    "results": [
+      {
+        "payment_amount": 10700,
+        "payment_currency": "RUB",
+        "funding_amount": 133,
+        "funding_currency": "USD"
+      }
+    ]
+  },
+  {
+    "service": "steam",
+    "url": "https://keysforgamers.com/ru/top-up/steam",
+    "type": "topup",
+    "region": "CIS",
+    "results": [
+      {
+        "payment_amount": 8197.09,
+        "payment_currency": "RUB",
+        "funding_amount": 100,
         "funding_currency": "USD"
       }
     ]
@@ -47,15 +159,29 @@
   },
   {
     "service": "steam",
-    "url": "https://steam.ru",
+    "url": "https://iwillplay.ru/?currency=RUB&index_mode=steam",
     "type": "topup",
-    "region": "CIS",
+    "region": "Russia",
     "results": [
       {
-        "payment_amount": 9094.25,
+        "payment_amount": 8560,
         "payment_currency": "RUB",
-        "funding_amount": 100,
-        "funding_currency": "USD"
+        "funding_amount": 8000,
+        "funding_currency": "RUB"
+      }
+    ]
+  },
+  {
+    "service": "steam",
+    "url": "https://payberry.ru/pay/5955/8",
+    "type": "topup",
+    "region": "Kazakhstan",
+    "results": [
+      {
+        "payment_amount": 10700,
+        "payment_currency": "RUB",
+        "funding_amount": 67000,
+        "funding_currency": "KZT"
       }
     ]
   },
@@ -66,98 +192,28 @@
     "region": "Turkey",
     "results": [
       {
-        "payment_amount": 4552,
+        "payment_amount": 4585,
         "payment_currency": "RUB",
         "funding_amount": 2000,
         "funding_currency": "TRY"
       },
       {
-        "payment_amount": 2326,
+        "payment_amount": 2342,
         "payment_currency": "RUB",
         "funding_amount": 1000,
         "funding_currency": "TRY"
       },
       {
-        "payment_amount": 1213,
+        "payment_amount": 1221,
         "payment_currency": "RUB",
         "funding_amount": 500,
         "funding_currency": "TRY"
       },
       {
-        "payment_amount": 606,
+        "payment_amount": 610,
         "payment_currency": "RUB",
         "funding_amount": 250,
         "funding_currency": "TRY"
-      }
-    ]
-  },
-  {
-    "service": "steam",
-    "url": "https://payment.mts.ru/cyber/steam",
-    "type": "topup",
-    "region": "Kazakhstan",
-    "results": [
-      {
-        "payment_amount": 8050,
-        "payment_currency": "RUB",
-        "funding_amount": 49611.11,
-        "funding_currency": "KZT"
-      }
-    ]
-  },
-  {
-    "service": "steam",
-    "url": "https://uniuni.market/payments/services/steam",
-    "type": "topup",
-    "region": "CIS",
-    "results": [
-      {
-        "payment_amount": 7885.38,
-        "payment_currency": "RUB",
-        "funding_amount": 100,
-        "funding_currency": "USD"
-      }
-    ]
-  },
-  {
-    "service": "steam",
-    "url": "https://payment.mts.ru/cyber/steam",
-    "type": "topup",
-    "region": "Russia",
-    "results": [
-      {
-        "payment_amount": 8050,
-        "payment_currency": "RUB",
-        "funding_amount": 7432,
-        "funding_currency": "RUB"
-      }
-    ]
-  },
-  {
-    "service": "steam",
-    "url": "https://payberry.ru/pay/5955/8",
-    "type": "topup",
-    "region": "CIS",
-    "results": [
-      {
-        "payment_amount": 10700,
-        "payment_currency": "RUB",
-        "funding_amount": 133,
-        "funding_currency": "USD"
-      }
-    ]
-  },
-  {
-    "service": "steam",
-    "url": "https://keysforgamers.com/ru/top-up/steam",
-    "type": "topup",
-    "region": "CIS",
-    "results": [
-      {
-        "payment_amount": 8204.5,
-        "payment_currency": "RUB",
-        "funding_amount": 100,
-        "funding_currency": "USD"
       }
     ]
   },
@@ -177,43 +233,43 @@
   },
   {
     "service": "steam",
-    "url": "https://payberry.ru/pay/5955/8",
+    "url": "https://iwillplay.ru/?currency=USD&index_mode=steam",
     "type": "topup",
-    "region": "Kazakhstan",
+    "region": "CIS",
     "results": [
       {
-        "payment_amount": 10700,
+        "payment_amount": 8103,
         "payment_currency": "RUB",
-        "funding_amount": 67300,
-        "funding_currency": "KZT"
+        "funding_amount": 100,
+        "funding_currency": "USD"
       }
     ]
   },
   {
     "service": "steam",
-    "url": "https://iwillplay.ru/?currency=KZT&index_mode=steam",
+    "url": "https://payment.mts.ru/cyber/steam",
     "type": "topup",
-    "region": "Kazakhstan",
+    "region": "CIS",
     "results": [
       {
-        "payment_amount": 6407,
+        "payment_amount": 8050,
         "payment_currency": "RUB",
-        "funding_amount": 40000,
-        "funding_currency": "KZT"
+        "funding_amount": 98.14,
+        "funding_currency": "USD"
       }
     ]
   },
   {
     "service": "steam",
-    "url": "https://iwillplay.ru/?currency=RUB&index_mode=steam",
+    "url": "https://uniuni.market/payments/services/steam",
     "type": "topup",
-    "region": "Russia",
+    "region": "CIS",
     "results": [
       {
-        "payment_amount": 8560,
+        "payment_amount": 7885.38,
         "payment_currency": "RUB",
-        "funding_amount": 8000,
-        "funding_currency": "RUB"
+        "funding_amount": 100,
+        "funding_currency": "USD"
       }
     ]
   },
@@ -224,52 +280,10 @@
     "region": "CIS",
     "results": [
       {
-        "payment_amount": 8810,
+        "payment_amount": 8786,
         "payment_currency": "RUB",
         "funding_amount": 100,
         "funding_currency": "USD"
-      }
-    ]
-  },
-  {
-    "service": "steam",
-    "url": "https://steam.ru",
-    "type": "topup",
-    "region": "Russia",
-    "results": [
-      {
-        "payment_amount": 9582.4,
-        "payment_currency": "RUB",
-        "funding_amount": 8000,
-        "funding_currency": "RUB"
-      }
-    ]
-  },
-  {
-    "service": "steam",
-    "url": "https://iwillplay.ru/?currency=USD&index_mode=steam",
-    "type": "topup",
-    "region": "CIS",
-    "results": [
-      {
-        "payment_amount": 8125,
-        "payment_currency": "RUB",
-        "funding_amount": 100,
-        "funding_currency": "USD"
-      }
-    ]
-  },
-  {
-    "service": "steam",
-    "url": "https://payberry.ru/pay/5955/8",
-    "type": "topup",
-    "region": "Russia",
-    "results": [
-      {
-        "payment_amount": 10700,
-        "payment_currency": "RUB",
-        "funding_amount": 10090,
-        "funding_currency": "RUB"
       }
     ]
   }
